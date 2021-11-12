@@ -5,9 +5,9 @@
 ---
 
 print("")
-print("^1Crée par : Haci Petlay^0")
-print("^4Pour : LegendRP.^0")
-print("")
+print("^1Crée par : Nefu^0")
+print("^4Pour : ND Développement^0")
+print("^6Discord : https://discord.gg/qtNqrrU5^0")
 
 
 ---round
