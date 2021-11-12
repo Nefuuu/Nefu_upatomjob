@@ -1,5 +1,5 @@
 # Nefu_upatomjob
 
-Preview : 
+Preview : https://www.youtube.com/watch?v=OM1nsgYhGMg
 
 Discord : https://discord.gg/mtHH5wcZgQ
