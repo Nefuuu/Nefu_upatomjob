@@ -1,5 +1,7 @@
 -- By "𝙉𝙀𝙁𝙐™#6730
 -- Discord : https://discord.gg/mtHH5wcZgQ
+---@author Nefu.
+---@version 1.0
 
 fx_version 'adamant'
 
